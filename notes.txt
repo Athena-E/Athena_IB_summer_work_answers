@@ -1,0 +1,25 @@
+Question 3b
+
+To determine the ratio of branch instructions to ALU operations that results in the 7-stage pipeline out-performing the 21-stage pipeline, we can compare the total time to complete $x$ number of ALU operations and $y$ number of BR operations for both pipelines.\\
+
+For the 7-stage pipeline, the total time is given by:
+\begin{align*}
+   & 3(x-1) + 15(y-1) + 21 - 3 \\
+   & = 3x + 15y - 12
+\end{align*}
+Similarly for the 21-stage pipeline, the total time is given by:
+\begin{align*}
+   & (x-1) + 17(y-1) + 21 - 3 \\
+   & = x + 17y
+\end{align*}
+[insert intuition later]\\
+
+We want to solve for a solution to the inequality:
+\begin{align*}
+  3x + 15y - 12 & < x + 17y \\
+  y             & > x - 6
+\end{align*}
+
+This suggests that the minimum ratio of branch intructions to ALU operations that would result in the 7-stage pipeline out-performing the 21-stage pipeline is $2:7$.
+
+
