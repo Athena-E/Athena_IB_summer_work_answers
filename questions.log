@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.31)  5 OCT 2024 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.31)  6 OCT 2024 00:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -414,180 +414,170 @@ Package hyperref Info: Link coloring ON on input line 42.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \newpage
+l.47 \newpage
               [1
 
-]
+] [2]
 Chapter 1.
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<adder.png, id=122, 333.245pt x 281.05pt>
+<adder.png, id=130, 333.245pt x 281.05pt>
 File: adder.png Graphic file (type png)
 <use adder.png>
-Package pdftex.def Info: adder.png  used on input line 83.
+Package pdftex.def Info: adder.png  used on input line 87.
 (pdftex.def)             Requested size: 166.62209pt x 140.52464pt.
-[2
+[3
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-<log.png, id=134, 331.2375pt x 231.86626pt>
+<log.png, id=142, 331.2375pt x 231.86626pt>
 File: log.png Graphic file (type png)
 <use log.png>
-Package pdftex.def Info: log.png  used on input line 95.
+Package pdftex.def Info: log.png  used on input line 99.
 (pdftex.def)             Requested size: 165.61833pt x 115.93283pt.
-<antilog.png, id=135, 291.0875pt x 231.86626pt>
+<antilog.png, id=143, 291.0875pt x 231.86626pt>
 File: antilog.png Graphic file (type png)
 <use antilog.png>
-Package pdftex.def Info: antilog.png  used on input line 107.
+Package pdftex.def Info: antilog.png  used on input line 111.
 (pdftex.def)             Requested size: 145.54338pt x 115.93283pt.
-[3 <./adder.png> <./log.png> <./antilog.png>]
-<summing.png, id=148, 334.24875pt x 211.79124pt>
+[4 <./adder.png> <./log.png> <./antilog.png>]
+<summing.png, id=155, 334.24875pt x 211.79124pt>
 File: summing.png Graphic file (type png)
 <use summing.png>
-Package pdftex.def Info: summing.png  used on input line 115.
+Package pdftex.def Info: summing.png  used on input line 119.
 (pdftex.def)             Requested size: 167.12396pt x 105.89536pt.
-<inverter.png, id=149, 303.1325pt x 211.79124pt>
+<inverter.png, id=156, 303.1325pt x 211.79124pt>
 File: inverter.png Graphic file (type png)
 <use inverter.png>
-Package pdftex.def Info: inverter.png  used on input line 123.
+Package pdftex.def Info: inverter.png  used on input line 127.
 (pdftex.def)             Requested size: 151.56587pt x 105.89536pt.
-<full_circuit.png, id=150, 881.2925pt x 151.56625pt>
+<full_circuit.png, id=157, 881.2925pt x 151.56625pt>
 File: full_circuit.png Graphic file (type png)
 <use full_circuit.png>
-Package pdftex.def Info: full_circuit.png  used on input line 129.
+Package pdftex.def Info: full_circuit.png  used on input line 133.
 (pdftex.def)             Requested size: 440.64517pt x 75.78293pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--165
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
 []|\OT1/cmr/m/n/12 Multiply the value spec-i-fied in
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 165--165
+Underfull \hbox (badness 3364) in paragraph at lines 169--169
 \OT1/cmtt/m/n/12 <operand2> \OT1/cmr/m/n/12 to the value in reg-is-ter
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 165--165
+Underfull \hbox (badness 1460) in paragraph at lines 169--169
 []|\OT1/cmr/m/n/12 Branch to the in-struc-tion at po-si-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--166
+Underfull \hbox (badness 10000) in paragraph at lines 145--170
 
  []
 
-[4 <./summing.png> <./inverter.png> <./full_circuit.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 188--189
+[5 <./summing.png> <./inverter.png> <./full_circuit.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
 
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 211--212
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
-[6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+[7] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 274--275
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--278
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 279--281
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
-
- []
-
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
+Underfull \hbox (badness 10000) in paragraph at lines 283--285
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 322--323
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 379--382
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
 
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 373--374
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 383--386
 
  []
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 449--450
-
- []
-
-
-Overfull \hbox (13.24115pt too wide) in paragraph at lines 451--452
-\OT1/cmr/m/n/12 piler may im-ple-ment op-ti-mi-sa-tions that can re-ar-range the or-der of the low-level/intermediate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 458--459
+Underfull \hbox (badness 10000) in paragraph at lines 432--433
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 463--464
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 465--466
+Underfull \hbox (badness 10000) in paragraph at lines 453--454
 
  []
 
 
+Overfull \hbox (13.24115pt too wide) in paragraph at lines 455--456
+\OT1/cmr/m/n/12 piler may im-ple-ment op-ti-mi-sa-tions that can re-ar-range the or-der of the low-level/intermediate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 467--468
 
  []
@@ -598,58 +588,63 @@ Underfull \hbox (badness 10000) in paragraph at lines 469--470
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--480
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--482
+Underfull \hbox (badness 10000) in paragraph at lines 473--474
 
  []
 
-[13]
+
 Underfull \hbox (badness 10000) in paragraph at lines 483--484
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 491--492
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 505--506
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 507--508
+Underfull \hbox (badness 10000) in paragraph at lines 493--494
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 513--514
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 515--516
+Underfull \hbox (badness 10000) in paragraph at lines 495--496
 
  []
 
 [15]
-Overfull \hbox (10.4585pt too wide) in paragraph at lines 529--529
-|[]\OT1/cmr/bx/n/12 Adding a Write-merge/Write-Combine/Write-Collapse/Write-Coalesce sup-
+Underfull \hbox (badness 10000) in paragraph at lines 509--510
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 531--532
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 517--518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+[16]
+Overfull \hbox (10.4585pt too wide) in paragraph at lines 533--533
+|[]\OT1/cmr/bx/n/12 Adding a Write-merge/Write-Combine/Write-Collapse/Write-Coalesce sup-
  []
 
 
@@ -658,107 +653,112 @@ Underfull \hbox (badness 10000) in paragraph at lines 535--536
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 537--538
+Underfull \hbox (badness 10000) in paragraph at lines 539--540
 
  []
 
-[16] [17] [18]
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--542
+
+ []
+
+[17] [18] [19]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 580--581
+Underfull \hbox (badness 10000) in paragraph at lines 584--585
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--593
+Underfull \hbox (badness 10000) in paragraph at lines 588--597
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--593
+Underfull \hbox (badness 10000) in paragraph at lines 588--597
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--593
+Underfull \hbox (badness 10000) in paragraph at lines 588--597
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--593
+Underfull \hbox (badness 10000) in paragraph at lines 588--597
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--593
+Underfull \hbox (badness 10000) in paragraph at lines 588--597
 
  []
 
-[19
+[20
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 594--607
+Underfull \hbox (badness 10000) in paragraph at lines 598--611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 594--607
+Underfull \hbox (badness 10000) in paragraph at lines 598--611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 594--607
+Underfull \hbox (badness 10000) in paragraph at lines 598--611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 594--607
+Underfull \hbox (badness 10000) in paragraph at lines 598--611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 594--607
+Underfull \hbox (badness 10000) in paragraph at lines 598--611
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 608--609
-
- []
-
-[20]
-Underfull \hbox (badness 10000) in paragraph at lines 627--630
+Underfull \hbox (badness 10000) in paragraph at lines 612--613
 
  []
 
 [21]
+Underfull \hbox (badness 10000) in paragraph at lines 631--634
+
+ []
+
+[22]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 683.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 683.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 683.
+(hyperref)                removing `math shift' on input line 687.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 683.
+(hyperref)                removing `math shift' on input line 687.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 683.
+(hyperref)                removing `math shift' on input line 687.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 683.
+(hyperref)                removing `math shift' on input line 687.
 
-[22] [23]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 687.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 687.
+
+[23] [24]
 Chapter 3.
-[24
+[25
 
 ] (./questions.aux)
  ***********
@@ -769,18 +769,18 @@ Package rerunfilecheck Info: File `questions.out' has not changed.
 (rerunfilecheck)             Checksum: D42D3842D53B6C6D5A42BDAE8BFCEBDD;3731.
  ) 
 Here is how much of TeX's memory you used:
- 12358 strings out of 476076
- 187541 string characters out of 5793775
+ 12359 strings out of 476076
+ 187548 string characters out of 5793775
  1938187 words of memory out of 5000000
  34239 multiletter control sequences out of 15000+600000
  565489 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,11n,79p,1073b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on questions.pdf (25 pages, 249679 bytes).
+Output written on questions.pdf (26 pages, 250327 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 364 PDF objects out of 1000 (max. 8388607)
+ 295 compressed objects within 3 object streams
+ 87 named destinations out of 1000 (max. 500000)
  199 words of extra memory for PDF output out of 10000 (max. 10000000)
 

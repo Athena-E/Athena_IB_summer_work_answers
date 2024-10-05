@@ -1,4 +1,4 @@
-PWD /home/athena/CST/IB/IBPrep/Athena
+PWD /home/athena/CST/IB/prep/IBPrep/Athena
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT questions.tex
@@ -174,6 +174,8 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT questions.toc
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./adder.png
@@ -191,7 +193,6 @@ INPUT ./antilog.png
 INPUT ./antilog.png
 INPUT ./antilog.png
 INPUT ./antilog.png
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsl12.tfm
 INPUT ./summing.png
 INPUT ./summing.png
 INPUT ./summing.png
@@ -207,7 +208,6 @@ INPUT ./full_circuit.png
 INPUT ./full_circuit.png
 INPUT ./full_circuit.png
 INPUT ./full_circuit.png
-INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT questions.aux
 INPUT ./questions.out
