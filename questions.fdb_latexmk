@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728169814.71415 "questions.tex" "questions.pdf" "questions" 1728169815.18991 0
+["pdflatex"] 1728383079.2421 "questions.tex" "questions.pdf" "questions" 1728383079.70997 0
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1716849630 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1716849630 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1716849630 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -93,16 +93,16 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1716849630 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1722441766.31339 325518 3dff2bac5bde75cd7e600320ce8a00d6 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1722464391 7112993 95ba78fee71ccafd90c77070e8c97942 ""
-  "adder.png" 1728001456.79785 23800 315de93cddf64bee63ee5ec34dc2b180 ""
-  "antilog.png" 1728004917.63125 16927 dacf1a9a39c5f259d1e5ce6b581167e3 ""
-  "full_circuit.png" 1728057274.54163 32787 79932927acba484c029ba1f98f24bbfe ""
-  "inverter.png" 1728057038.67163 16493 d7cad429d78bce0bb653f7727be7e4cf ""
-  "log.png" 1728004772.78791 17227 155065b267ea818913591d21efb00c68 ""
-  "questions.aux" 1728169815.14446 7632 90b697fbd6425582aa550ec084ad58cb "pdflatex"
-  "questions.out" 1728169815.14446 3731 d42d3842d53b6c6d5a42bdae8bfcebdd "pdflatex"
-  "questions.tex" 1728169813.4178 47501 a988807fb31ca739f147b95bf18eaf5b ""
-  "questions.toc" 1728169815.14446 4468 e20caf4833eff4c4536cd5af21d9e52d "pdflatex"
-  "summing.png" 1728056499.79162 21085 2777d0ed78112dc0a27ac39cdbf2ab24 ""
+  "adder.png" 1728169870.42447 23800 315de93cddf64bee63ee5ec34dc2b180 ""
+  "antilog.png" 1728169870.42447 16927 dacf1a9a39c5f259d1e5ce6b581167e3 ""
+  "full_circuit.png" 1728169870.42447 32787 79932927acba484c029ba1f98f24bbfe ""
+  "inverter.png" 1728169870.42447 16493 d7cad429d78bce0bb653f7727be7e4cf ""
+  "log.png" 1728169870.42447 17227 155065b267ea818913591d21efb00c68 ""
+  "questions.aux" 1728383079.66344 7524 e18145f4a1b669785d9ff495908f47c3 "pdflatex"
+  "questions.out" 1728383079.66677 3693 b5849beb54df97244a765509e9b44b82 "pdflatex"
+  "questions.tex" 1728383077.49344 47492 edb821f205839f7e04312df349cdc543 ""
+  "questions.toc" 1728383079.66677 4401 ef5bc97f3a733e87e18a9928cab30029 "pdflatex"
+  "summing.png" 1728169870.42447 21085 2777d0ed78112dc0a27ac39cdbf2ab24 ""
   (generated)
   "questions.aux"
   "questions.log"

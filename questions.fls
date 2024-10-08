@@ -1,4 +1,4 @@
-PWD /home/athena/CST/IB/prep/IBPrep/Athena
+PWD /home/athena/CST/IB/prep/Athena_IB_summer_work_answers
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT questions.tex

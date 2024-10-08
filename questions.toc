@@ -40,6 +40,5 @@
 \contentsline {subsection}{\numberline {2.2.1}Production rules for floating point numbers}{23}{subsection.2.2.1}%
 \contentsline {subsection}{\numberline {2.2.2}Production rules for expressions}{23}{subsection.2.2.2}%
 \contentsline {subsection}{\numberline {2.2.3}$T$, $N$, $S$}{24}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.2.4}Lexer \& Parser}{24}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Testing}{24}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.4}Lexer \& Parser \& Testing}{24}{subsection.2.2.4}%
 \contentsline {chapter}{\numberline {3}Computer Networking}{25}{chapter.3}%

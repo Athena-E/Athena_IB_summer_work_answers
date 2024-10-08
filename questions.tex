@@ -572,8 +572,10 @@ Very Long Instruction Word (VLIW) and Explicitly Parallel Instruction Computing 
     \begin{enumerate}
       \item
         The lexer takes in a sequence of characters as input and produces a sequence of tokens as output. The input contains strings that correspond to a regular expression in the symbol table and are mapped to a token. These tokens are meaningful symbols that can be processed by the parser.
+
       \item
         The parser generates a parse tree for a string that has been generated from the underlying grammar. The parse tree is an intermediate representation which represents the grammatical structure of the input token stream.
+
       \item
         The intermediate code generator takes the parsed token stream (which itself is an intermediate representation) and generates one or more low-level intermediate representations. This phase may decompose the source code into expressions that have a closer relationship to the machine code representation while preserving the meaning carried from the lexer and parser.
 
@@ -676,9 +678,9 @@ The production rules follow the rules for a context-free grammar given that the 
 
 \begin{align*}
   E  & \rightarrow \; TE'                   \\
-  E' & \rightarrow \; -TE' \; | \; \epsilon \\
+  E' & \rightarrow \; +TE' \; | \; \epsilon \\
   T  & \rightarrow \; RT'                   \\
-  T' & \rightarrow \; +RT' \; | \; \epsilon \\
+  T' & \rightarrow \; -RT' \; | \; \epsilon \\
   R  & \rightarrow \; C \; | \; C \wedge R  \\
   C  & \rightarrow \; X \; | \; \cos \; C   \\
   X  & \rightarrow \; F \; | \; X!          \\
@@ -732,11 +734,9 @@ The production rules follow the rules for a context-free grammar given that the 
   S                    & = E
 \end{align*}
 
-\subsection{Lexer \& Parser}
+\subsection{Lexer \& Parser \& Testing}
 
 \url{https://github.com/Athena-E/ocaml_lexer_parser}
-
-\subsection{Testing}
 
 % -------------------------------------------------------------------
 

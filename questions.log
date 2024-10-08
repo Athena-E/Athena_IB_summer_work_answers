@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.31)  6 OCT 2024 00:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.31)  8 OCT 2024 11:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -429,7 +429,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<adder.png, id=130, 333.245pt x 281.05pt>
+<adder.png, id=125, 333.245pt x 281.05pt>
 File: adder.png Graphic file (type png)
 <use adder.png>
 Package pdftex.def Info: adder.png  used on input line 87.
@@ -441,28 +441,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
-<log.png, id=142, 331.2375pt x 231.86626pt>
+<log.png, id=137, 331.2375pt x 231.86626pt>
 File: log.png Graphic file (type png)
 <use log.png>
 Package pdftex.def Info: log.png  used on input line 99.
 (pdftex.def)             Requested size: 165.61833pt x 115.93283pt.
-<antilog.png, id=143, 291.0875pt x 231.86626pt>
+<antilog.png, id=138, 291.0875pt x 231.86626pt>
 File: antilog.png Graphic file (type png)
 <use antilog.png>
 Package pdftex.def Info: antilog.png  used on input line 111.
 (pdftex.def)             Requested size: 145.54338pt x 115.93283pt.
 [4 <./adder.png> <./log.png> <./antilog.png>]
-<summing.png, id=155, 334.24875pt x 211.79124pt>
+<summing.png, id=150, 334.24875pt x 211.79124pt>
 File: summing.png Graphic file (type png)
 <use summing.png>
 Package pdftex.def Info: summing.png  used on input line 119.
 (pdftex.def)             Requested size: 167.12396pt x 105.89536pt.
-<inverter.png, id=156, 303.1325pt x 211.79124pt>
+<inverter.png, id=151, 303.1325pt x 211.79124pt>
 File: inverter.png Graphic file (type png)
 <use inverter.png>
 Package pdftex.def Info: inverter.png  used on input line 127.
 (pdftex.def)             Requested size: 151.56587pt x 105.89536pt.
-<full_circuit.png, id=157, 881.2925pt x 151.56625pt>
+<full_circuit.png, id=152, 881.2925pt x 151.56625pt>
 File: full_circuit.png Graphic file (type png)
 <use full_circuit.png>
 Package pdftex.def Info: full_circuit.png  used on input line 133.
@@ -665,96 +665,96 @@ Underfull \hbox (badness 10000) in paragraph at lines 541--542
 [17] [18] [19]
 Chapter 2.
 
-Underfull \hbox (badness 10000) in paragraph at lines 584--585
+Underfull \hbox (badness 10000) in paragraph at lines 586--587
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--597
+Underfull \hbox (badness 10000) in paragraph at lines 590--599
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--597
+Underfull \hbox (badness 10000) in paragraph at lines 590--599
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--597
+Underfull \hbox (badness 10000) in paragraph at lines 590--599
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--597
+Underfull \hbox (badness 10000) in paragraph at lines 590--599
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 588--597
+Underfull \hbox (badness 10000) in paragraph at lines 590--599
 
  []
 
 [20
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 598--611
+Underfull \hbox (badness 10000) in paragraph at lines 600--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--611
+Underfull \hbox (badness 10000) in paragraph at lines 600--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--611
+Underfull \hbox (badness 10000) in paragraph at lines 600--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--611
+Underfull \hbox (badness 10000) in paragraph at lines 600--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--611
+Underfull \hbox (badness 10000) in paragraph at lines 600--613
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 612--613
+Underfull \hbox (badness 10000) in paragraph at lines 614--615
 
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 631--634
+Underfull \hbox (badness 10000) in paragraph at lines 633--636
 
  []
 
 [22]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 687.
+(hyperref)                removing `math shift' on input line 689.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 687.
+(hyperref)                removing `math shift' on input line 689.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 687.
+(hyperref)                removing `math shift' on input line 689.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 687.
+(hyperref)                removing `math shift' on input line 689.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 687.
+(hyperref)                removing `math shift' on input line 689.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 687.
+(hyperref)                removing `math shift' on input line 689.
 
 [23] [24]
 Chapter 3.
@@ -766,21 +766,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `questions.out' has not changed.
-(rerunfilecheck)             Checksum: D42D3842D53B6C6D5A42BDAE8BFCEBDD;3731.
+(rerunfilecheck)             Checksum: B5849BEB54DF97244A765509E9B44B82;3693.
  ) 
 Here is how much of TeX's memory you used:
- 12359 strings out of 476076
- 187548 string characters out of 5793775
+ 12357 strings out of 476076
+ 187514 string characters out of 5793775
  1938187 words of memory out of 5000000
- 34239 multiletter control sequences out of 15000+600000
+ 34238 multiletter control sequences out of 15000+600000
  565489 words of font info for 62 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,11n,79p,1073b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on questions.pdf (26 pages, 250327 bytes).
+Output written on questions.pdf (26 pages, 250134 bytes).
 PDF statistics:
- 364 PDF objects out of 1000 (max. 8388607)
- 295 compressed objects within 3 object streams
- 87 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 359 PDF objects out of 1000 (max. 8388607)
+ 290 compressed objects within 3 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
